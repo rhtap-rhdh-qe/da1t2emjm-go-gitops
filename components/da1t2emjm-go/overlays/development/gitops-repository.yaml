@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: da1t2emjm-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/da1t2emjm-go-gitops
